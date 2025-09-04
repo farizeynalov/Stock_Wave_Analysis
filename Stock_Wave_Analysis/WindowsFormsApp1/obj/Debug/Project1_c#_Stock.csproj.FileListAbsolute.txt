@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project1_c#_Stock.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project1_stock.Form_Candlesticks.resources
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project1_c#_Stock.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project1_c#_Stock.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

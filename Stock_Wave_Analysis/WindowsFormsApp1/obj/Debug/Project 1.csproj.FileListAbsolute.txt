@@ -1,0 +1,70 @@
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Project_candlesticks.Form_StockViewer.resources
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\sahed\OneDrive\Destkop\COP 4365 - Data\Her Ehtimala qarsi\WindowsFormsApp1\obj\Debug\Project_candlesticks.Form_Candlesticks.resources
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\obj\Debug\Project_candlesticks.Form_Candlesticks.resources
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\taced\OneDrive\Документы\Projects\Project 1 - Shahaddin Gafarov U54479934\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\obj\Debug\Project_candlesticks.Form_Candlesticks.resources
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\taced\OneDrive\Документы\Projects\Project 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Project 1\WindowsFormsApp1\obj\Debug\Project1_stock.Form_Candlesticks.resources
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project1_stock.Form_Candlesticks.resources
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\sdasd\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project 1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project1_stock.Form_Candlesticks.resources
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project 1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\Project 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Desktop\Project 2 c#\Project1_c#_Stock\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
